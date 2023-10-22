@@ -1,0 +1,32 @@
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+.big_imag{
+    width: 100%;
+}
+
+#start, #status{
+    font-size: 22px;
+}
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.copy-right-footer{
+    position: absolute;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 180px;
+    box-shadow: 5px 5px 5px white;
+}
